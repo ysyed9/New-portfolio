@@ -26,7 +26,7 @@ const projects: Project[] = [
     primaryLang: "React",
     stars: 47,
     forks: 8,
-    github: "https://github.com/younussyed987",
+    github: "https://github.com/ysyed9",
     featured: true,
   },
   {
@@ -39,7 +39,7 @@ const projects: Project[] = [
     primaryLang: "Python",
     stars: 62,
     forks: 11,
-    github: "https://github.com/younussyed987",
+    github: "https://github.com/ysyed9",
     featured: true,
   },
 ];
@@ -168,7 +168,7 @@ export default function Projects() {
         <div className="flex items-center justify-between mb-2 flex-wrap gap-3">
           <h2 className="section-title mb-0">$ ls -la ~/projects</h2>
           <a
-            href="https://github.com/younussyed987"
+            href="https://github.com/ysyed9"
             target="_blank"
             rel="noreferrer"
             className="font-mono text-xs px-4 py-1.5 rounded border transition-all duration-200"

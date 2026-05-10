@@ -73,13 +73,13 @@ export default function Contact() {
                       <span style={{ color: "var(--cyan)" }}>&quot;github&quot;</span>
                       <span style={{ color: "var(--text-secondary)" }}>: </span>
                       <a
-                        href="https://github.com/younussyed987"
+                        href="https://github.com/ysyed9"
                         target="_blank"
                         rel="noreferrer"
                         style={{ color: "var(--green)" }}
                         className="hover:underline"
                       >
-                        &quot;@younussyed987&quot;
+                        &quot;@ysyed9&quot;
                       </a>
                       <span style={{ color: "var(--text-secondary)" }}>,</span>
                     </div>
@@ -87,13 +87,13 @@ export default function Contact() {
                       <span style={{ color: "var(--cyan)" }}>&quot;linkedin&quot;</span>
                       <span style={{ color: "var(--text-secondary)" }}>: </span>
                       <a
-                        href="https://linkedin.com/in/younussyed"
+                        href="https://www.linkedin.com/in/y-syed/"
                         target="_blank"
                         rel="noreferrer"
                         style={{ color: "var(--green)" }}
                         className="hover:underline"
                       >
-                        &quot;linkedin.com/in/younussyed&quot;
+                        &quot;linkedin.com/in/y-syed&quot;
                       </a>
                     </div>
                   </div>
